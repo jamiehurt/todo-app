@@ -1,0 +1,26 @@
+have to set config.php info to database
+
+Small todo-app developed using the following:
+
+HTML 
+CSS 
+PHP
+Javascript & jQuery
+SQL
+
+-----
+
+Features:
+
+- Ability to add todos to a database
+
+- Ability to remove todos from a database
+
+- Retrives stored todos from a database
+
+-----
+
+Plans:
+
+- Next task is to convert to a vue.js format
+- parse the data into JSON and call using a fetch()
